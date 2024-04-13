@@ -11,4 +11,4 @@ elif num_computadoras  >= 10:
 
 total = num_computadoras * 1000000 * descuento
 
-print(f"Total to pay: ${total:,} COP")
+print(f"Total a pagar: ${total:,} COP")
